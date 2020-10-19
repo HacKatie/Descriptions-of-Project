@@ -1,4 +1,4 @@
-# Descrições do Project
+# Descrições do Projeto
 
 ## Tema
 
